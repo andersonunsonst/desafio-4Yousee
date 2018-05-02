@@ -1,0 +1,13 @@
+{
+    "name": "desafio",
+    "version": "1.0.0",
+    "main": "index.html",
+    "window": {
+        "width": 800,
+        "height": 600
+    },
+    "scripts": {
+        "test": "node desafio.test"
+    },
+    "author": "Anderson Unsonst"
+}
